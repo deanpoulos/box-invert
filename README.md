@@ -10,18 +10,19 @@ I use a system-wide dark gruvbox theme, and so I like all my applications to use
 
 However, when I paste an image from somewhere on the internet, chances are it will have an ugly white background.
 
-![markdown viewer](screenshots/ugly-white-bg.png)
+![ugly white bg](screenshots/ugly-white-bg.png)
 
 One solution is to add a css rule to invert every image, which results in this:
 
-![markdown viewer](screenshots/basic-invert.png)
+![poorly inverted image](screenshots/bad-invert.png)
 
-However, some images turn ugly...
+I'd like an easy way to invert only parts of an image, and that's why I created
+this tool, which gives the following image,
 
-![markdown viewer](screenshots/bad-invert.png)
-
-I'd like an easy way to invert only parts of an image, e.g.,
-
-![markdown viewer](screenshots/good-invert.png)
+![smart-inverted image](screenshots/good-invert.png)
 
 ## Usage
+
+I've made a simple video tutorial demonstrating the usage of the program:
+
+
