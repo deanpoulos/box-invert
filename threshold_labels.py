@@ -1,0 +1,6 @@
+B = 'Black Threshold\n(drag black text -> white)\n'
+W = 'White Threshold\n(drag white bg -> black)\n'
+K = 'Dilation/Erosion Kernel Size\n(drag until noise clears)\n'
+C = 'Draw Contours'
+T = 'Contours Threshold'
+I = 'Invert Output'
