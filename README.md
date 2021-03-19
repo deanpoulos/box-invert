@@ -34,14 +34,14 @@ this tool, which gives the following image,
 ## Usage
 
 ```console
-$ python smart_invert.py img/img3.png > /dev/null 2 &> 1
+$ python smart_invert.py img/img3.png 
 ```
 
 ## Example
 ### Step 1: Open Application
 
 ```console
-$ python smart_invert.py img/img3.png > /dev/null 2 &> 1
+$ python smart_invert.py img/img3.png
 ```
 ![step1](screenshots/usage1.png)
 
