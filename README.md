@@ -35,7 +35,8 @@ this tool, which gives the following image,
 ## Installation
 ```console
 $ git clone https://github.com/deanpoulos/BoxInvert.git
-$ pip install BoxInvert
+$ cd BoxInvert
+$ pip install .
 ```
 
 ## Usage
