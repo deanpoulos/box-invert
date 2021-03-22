@@ -4,11 +4,14 @@
 An OpenCV computer vision tool for advanced image inversion.
 
 ## Todo
+- [X] Add keyboard shorctut and pipe straight into application
+- [ ] Add keyboard shortcut to docs
 - [ ] Add crosshair cursor
 - [ ] Fix slider labels
 - [ ] Add rectangle indicator when making selections
 - [ ] Add ctrl-z
-- [ ] Add keyboard shorctut and pipe straight into application
+- [ ] Fix middle-mouse click bug
+- [ ] Change default behaviour
 
 ## Background
 I use a system-wide dark gruvbox theme, and so I like all my applications to use a dark theme. This includes my note-taking application which compiles markdown using a custom stylesheet. This stylesheet is configured with gruvbox colours, and so notes look like this:
