@@ -41,14 +41,14 @@ $ pip install BoxInvert
 ## Usage
 
 ```console
-$ python smart_invert.py img/img3.png 
+$ box_invert <some_image>
 ```
 
 ## Example
 ### Step 1: Open Application
 
 ```console
-$ python smart_invert.py img/img3.png
+$ box_invert BoxImage/img/img3.png
 ```
 ![step1](screenshots/usage1.png)
 
