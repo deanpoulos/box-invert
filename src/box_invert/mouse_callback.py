@@ -1,7 +1,5 @@
-import cv2
-import numpy as np
-from find_contours import *
-from matplotlib import pyplot as plt
+from box_invert import *
+from box_invert.find_contours import paint_contours, get_contours
 
 drawing = False # true if mouse is pressed
 mode = True # if True, draw rectangle. Press 'm' to toggle to curve

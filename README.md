@@ -30,7 +30,13 @@ this tool, which gives the following image,
 
 ## Requirements
 - NumPy
-- OpenCV 2
+- OpenCV2
+
+## Installation
+```console
+$ git clone https://github.com/deanpoulos/BoxInvert.git
+$ pip install BoxInvert
+```
 
 ## Usage
 

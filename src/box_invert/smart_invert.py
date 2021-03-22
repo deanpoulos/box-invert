@@ -1,12 +1,7 @@
-import sys
-import cv2
-import numpy as np
-
-import mouse_callback as mouse
-
-from inversion_filter import apply
-from find_contours import paint_contours
-from threshold_labels import *
+from box_invert import *
+import box_invert.mouse_callback as mouse
+from box_invert.inversion_filter import apply
+from box_invert.find_contours import paint_contours
 
 src = cv2.imread(sys.argv[1])
 

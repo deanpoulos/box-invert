@@ -1,5 +1,4 @@
-import cv2 
-from threshold_labels import *
+from box_invert import *
 
 def paint_contours(img):
     contours = get_contours(img)

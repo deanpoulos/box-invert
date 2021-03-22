@@ -1,6 +1,4 @@
-import cv2
-import numpy as np
-from threshold_labels import B, W, K
+from box_invert import *
 
 def apply(src, inversion_mask=None):
     """
