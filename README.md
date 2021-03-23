@@ -45,14 +45,14 @@ $ pip install .
 ## Usage
 
 ```console
-$ box_invert <some_image>
+$ box-invert <some_image>
 ```
 
 ## Example
 ### Step 1: Open Application
 
 ```console
-$ box_invert BoxImage/img/img3.png
+$ box-invert BoxImage/img/img3.png
 ```
 ![step1](screenshots/usage1.png)
 
