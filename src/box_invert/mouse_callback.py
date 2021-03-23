@@ -37,7 +37,7 @@ def draw_circle(event,x,y,flags,param):
         ix,iy = x,y
 
     elif event == cv2.EVENT_MBUTTONUP:
-        import smart_invert
+        from box_invert import smart_invert
         curr_img = smart_invert.img.copy().astype(np.uint8)
         mask = np.zeros(curr_img.shape).astype(np.uint8)
         masked_img = np.zeros(curr_img.shape).astype(np.uint8)
