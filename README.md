@@ -5,6 +5,8 @@ An OpenCV computer vision tool for advanced image inversion.
 
 ## Todo
 - [X] Add keyboard shorctut and pipe straight into application
+- [ ] Add buttons for modes (e.g., invert no hue, invert, swap white/black,
+  invert all contours).
 - [ ] Add keyboard shortcut to docs
 - [ ] Add crosshair cursor
 - [ ] Fix slider labels
