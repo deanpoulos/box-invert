@@ -10,7 +10,7 @@ An OpenCV computer vision tool for advanced image inversion.
 - [ ] Fix slider labels
 - [ ] Add rectangle indicator when making selections
 - [ ] Add ctrl-z
-- [ ] Fix middle-mouse click bug
+- [X] Fix middle-mouse click bug
 - [ ] Change default behaviour
 
 ## Background
@@ -87,7 +87,7 @@ in the second part of the pipeline).
 ![step6](screenshots/usage6.png)
 
 ### Step 7: Invert Contoured Region
-Middle-click and drag a rectangular selection around the contoured region you would
+Ctrl-click and drag a rectangular selection around the contoured region you would
 like inverted (again, it is the masked head in the second part of the pipeline).
 Now, toggle-off "Draw Contours".
 
